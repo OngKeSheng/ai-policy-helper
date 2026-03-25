@@ -370,18 +370,6 @@ taskkill /PID <PID> /F  # Windows
 
 ---
 
-## Submission Checklist
-
-- [x] Backend running on `localhost:8000`
-- [x] Frontend running on `localhost:3000`
-- [x] Ingestion endpoint works (6 docs, 12 chunks)
-- [x] Q&A returns citations from relevant documents
-- [x] Tests pass (2/2)
-- [ ] README complete ← **You are here**
-- [ ] Demo recorded (with real LLM)
-- [ ] GitHub repo pushed
-- [ ] Demo video uploaded
-
 ---
 
 ## License
